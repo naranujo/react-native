@@ -27,9 +27,9 @@ const Styles = StyleSheet.create({
     },
     textoClick: {
         fontWeight: 'bold',
-        padding: "10px",
+        padding: 10,
         backgroundColor: "#ccc",
-        borderRadius: "4px",
+        borderRadius: 4,
         textAlign: "center",
     }
 })

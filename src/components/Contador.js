@@ -30,7 +30,7 @@ export default Contador
 
 const Styles = StyleSheet.create({
     container: {
-        padding: "10px"
+        padding: 10
     },
     texto: {
         textAlign: "center"
@@ -40,8 +40,8 @@ const Styles = StyleSheet.create({
         fontWeight: 'bold',
     },
     cajaContador: {
-        padding: "10px",
+        padding: 10,
         backgroundColor: "rgba(0, 255, 0, 0.5)",
-        borderRadius: "4px"
+        borderRadius: 4
     }
 })
